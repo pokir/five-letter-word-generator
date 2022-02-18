@@ -1,7 +1,5 @@
 const fs = require('fs');
-
-
-const words = fs.readFileSync('words.txt').toString().split(' ');
+const words = require('./wordlist').toString().split(' ');
 
 
 function getRandomWord() {
