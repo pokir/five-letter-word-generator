@@ -29,5 +29,6 @@ const isValid = gen.isInWords('crane');
 Get the word list:
 
 ```js
+// Returns an array of strings
 const words = get.getWords();
 ```
