@@ -1,0 +1,20 @@
+{
+  "name": "five-letter-word-generator",
+  "version": "1.0.0",
+  "description": "Generates five letter words.",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pokir/five-letter-word-generator.git"
+  },
+  "author": "pokir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pokir/five-letter-word-generator/issues"
+  },
+  "homepage": "https://github.com/pokir/five-letter-word-generator#readme"
+}
